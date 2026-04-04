@@ -1,21 +1,33 @@
+<div align="center">
+
 # HMD Developments
 
-Technology subsidiary of [HMD Corp](https://hmdcorp.org), responsible for all software products and technical infrastructure across the group.
+Technology subsidiary of [HMD Corp](https://hmdcorp.org).  
+Software products, technical infrastructure, and open-source tooling.
 
-### Open Source
-
-| Project | Description |
-|---|---|
-| [HMD Bio](https://github.com/hmddevs/hmd-bio) | URL shortener & link management platform |
-| [Chat Guard](https://github.com/hmddevs/chat-guard) | Discord moderation & server management bot |
-| [IP API](https://github.com/hmddevs/ip-api) | Privacy-focused IP geolocation service |
-| [Discord Invite Tracker](https://github.com/hmddevs/discord-invite-tracker) | Discord bot for tracking server invites and leaderboards |
-| [Discord Music Player](https://github.com/hmddevs/discord-music-player) | Discord music bot with queue management and filters |
-
-### Links
+**London, United Kingdom**
 
 [hmddevs.org](https://hmddevs.org) · [hmdcorp.org](https://hmdcorp.org)
 
+</div>
+
 ---
 
-<sub>London, United Kingdom</sub>
+### Products
+
+| | Project | Stack | |
+|---|---|---|---|
+| **[HMD Bio](https://hmd.bio)** | URL shortener and link management platform | Next.js, MongoDB, Redis | [Source](https://github.com/hmddevs/hmd-bio) |
+| **[IP API](https://ip.hmddevs.org)** | Privacy-focused IP geolocation service | Node.js, TypeScript | [Source](https://github.com/hmddevs/ip-api) |
+
+### Discord Bots
+
+| | Project | Description | |
+|---|---|---|---|
+| **Chat Guard** | Moderation and server management | 7,500+ servers, 15M+ users | [Source](https://github.com/hmddevs/chat-guard) |
+| **Invite Tracker** | Invite tracking, leaderboards, bonus/fake detection | | [Source](https://github.com/hmddevs/discord-invite-tracker) |
+| **Music Player** | Queue controls, filters, event embeds | | [Source](https://github.com/hmddevs/discord-music-player) |
+
+### Core Stack
+
+TypeScript · Node.js · Next.js · React · MongoDB · Redis · Vercel · AWS
