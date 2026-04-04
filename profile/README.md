@@ -1,10 +1,8 @@
 # HMD Developments
 
-**Software development studio under [HMD Corp](https://hmdcorp.org).**
+Technology subsidiary of [HMD Corp](https://hmdcorp.org). We build, maintain, and scale the software products and infrastructure behind the holding.
 
-We design and build digital products — from URL shorteners to communication platforms — with a focus on performance, reliability, and clean architecture.
-
-### Open-Source Projects
+### Public Repositories
 
 | Project | Description |
 |---|---|
@@ -22,4 +20,4 @@ TypeScript · Next.js · React · Node.js · MongoDB · Swift · React Native
 
 ---
 
-<sub>London, United Kingdom · Building products people rely on.</sub>
+<sub>London, United Kingdom</sub>
