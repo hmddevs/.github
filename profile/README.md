@@ -1,18 +1,14 @@
 # HMD Developments
 
-Technology subsidiary of [HMD Corp](https://hmdcorp.org). We build, maintain, and scale the software products and infrastructure behind the holding.
+Technology subsidiary of [HMD Corp](https://hmdcorp.org), responsible for all software products and technical infrastructure across the group.
 
-### Public Repositories
+### Open Source
 
 | Project | Description |
 |---|---|
 | [HMD Bio](https://github.com/hmddevs/hmd-bio) | URL shortener & link management platform |
 | [Chat Guard](https://github.com/hmddevs/chat-guard) | Discord moderation & server management bot |
 | [IP API](https://github.com/hmddevs/ip-api) | Privacy-focused IP geolocation service |
-
-### Stack
-
-TypeScript · Next.js · React · Node.js · MongoDB · Swift · React Native
 
 ### Links
 
