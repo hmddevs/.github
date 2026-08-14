@@ -18,9 +18,23 @@ brought in for the work they do better than he does.
 
 | | Project | Stack | |
 |---|---|---|---|
-| **[HMD Bio](https://hmd.bio)** | URL shortener and link management platform | Next.js, MongoDB, Redis | [Source](https://github.com/hmddevs/hmd-bio) |
-| **[IP API](https://ip.hmddevs.org)** | Privacy-focused IP geolocation service | Node.js, TypeScript | [Source](https://github.com/hmddevs/ip-api) |
+| **[Bronzla](https://github.com/hmddevs/bronzla)** | How long you can safely stay in the sun, from your skin type and the live UV index. iOS and watchOS, free | Swift | [Source](https://github.com/hmddevs/bronzla) |
+| **[Snooze If You Can](https://github.com/hmddevs/snooze-if-you-can)** | An alarm app that turns snoozing into donations | Swift | [Source](https://github.com/hmddevs/snooze-if-you-can) |
+| **[HMD Bio](https://hmd.bio)** | URL shortener and link management, with custom domains and click analytics | Next.js, MongoDB, Redis | [Source](https://github.com/hmddevs/hmd-bio) |
+| **[IP API](https://ip.hmddevs.org)** | Privacy-focused IP geolocation. The addresses it resolves are not logged | Node.js | [Source](https://github.com/hmddevs/ip-api) |
+
+### Open source tooling
+
+| | Project | Stack | |
+|---|---|---|---|
+| **Chat Guard** | Moderation and server management for large Discord communities. In production since 2021 | JavaScript | [Source](https://github.com/hmddevs/chat-guard) |
+| **Invite Tracker** | Invite tracking, leaderboards, and fake-invite detection for Discord | JavaScript | [Source](https://github.com/hmddevs/discord-invite-tracker) |
+| **Music Player** | A modular Discord bot skeleton with queue controls and event embeds | JavaScript | [Source](https://github.com/hmddevs/discord-music-player) |
+| **Sormak İçin Sorma** | Direkt sor, "sorabilir miyim?" deme | HTML | [Source](https://github.com/hmddevs/sormak-icin-sorma) |
+
+Everything published here is under [CC BY-NC-ND 4.0](https://github.com/hmddevs/license).
+The remaining repositories are private: internal tooling, infrastructure, and the studio's own sites.
 
 ### Core Stack
 
-TypeScript · Node.js · Next.js · React · MongoDB · Redis · Vercel · AWS
+TypeScript · Node.js · Next.js · React · Swift · MongoDB · Redis · Vercel · AWS
