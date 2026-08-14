@@ -2,8 +2,11 @@
 
 # HMD Developments
 
-The name [Umut Güden](https://guden.tr) publishes software under.
+A small software studio.
 Products, infrastructure, and open-source tooling.
+
+Led by [Umut Güden](https://guden.tr), working with a few people he has built things with for years,
+brought in for the work they do better than he does.
 
 [hmddevs.org](https://hmddevs.org) · [guden.tr](https://guden.tr)
 
