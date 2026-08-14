@@ -34,7 +34,7 @@ Complete and archived. The source stays up, and Chat Guard has been running in p
 | **Music Player** | A modular Discord bot skeleton with queue controls and event embeds | JavaScript | [Source](https://github.com/hmddevs/discord-music-player) |
 | **Sormak İçin Sorma** | Direkt sor, "sorabilir miyim?" deme | HTML | [Source](https://github.com/hmddevs/sormak-icin-sorma) |
 
-Everything published here is under [CC BY-NC-ND 4.0](https://github.com/hmddevs/license).
+Licences differ per project; each repository carries its own `LICENSE` file, and that file is authoritative.
 The remaining repositories are private: internal tooling, infrastructure, and the studio's own sites.
 
 ### Core Stack
