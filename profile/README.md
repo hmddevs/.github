@@ -2,12 +2,10 @@
 
 # HMD Developments
 
-Technology subsidiary of [HMD Corp](https://hmdcorp.org).  
-Software products, technical infrastructure, and open-source tooling.
+The name [Umut Güden](https://guden.tr) publishes software under.
+Products, infrastructure, and open-source tooling.
 
-**London, United Kingdom**
-
-[hmddevs.org](https://hmddevs.org) · [hmdcorp.org](https://hmdcorp.org)
+[hmddevs.org](https://hmddevs.org) · [guden.tr](https://guden.tr)
 
 </div>
 
