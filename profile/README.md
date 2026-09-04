@@ -2,8 +2,8 @@
 
 # HMD Developments
 
-A small software studio in Istanbul.
-AI-native products, cloud infrastructure, and open-source tooling.
+An AI-native software studio in Istanbul.
+B2B SaaS, cloud infrastructure, and open-source tooling.
 
 Led by [Umut Güden](https://guden.tr), working with a few people he has built things with for years,
 brought in for the work they do better than he does.
