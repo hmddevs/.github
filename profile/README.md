@@ -22,7 +22,6 @@ Private for now. Listed because they are what the studio spends most of its time
 |---|---|---|---|
 | **Notifyn** | AI-powered multi-channel marketing platform. Email, SMS, WhatsApp, push, and voice behind a single AI decision layer | Next.js, MongoDB, AWS | Private |
 | **Notifyn Cast** | Creator and UGC marketing, built on the Notifyn platform | Next.js, MongoDB | Private |
-| **EmDash** | A full-stack TypeScript CMS on Astro | Astro, TypeScript | Private |
 | **HMD WA Gateway** | WhatsApp Business messaging gateway | Next.js, Baileys | Private |
 
 ### Products
