@@ -2,8 +2,8 @@
 
 # HMD Developments
 
-A small software studio.
-Products, infrastructure, and open-source tooling.
+A small software studio in Istanbul.
+AI-native products, cloud infrastructure, and open-source tooling.
 
 Led by [Umut Güden](https://guden.tr), working with a few people he has built things with for years,
 brought in for the work they do better than he does.
@@ -13,6 +13,16 @@ brought in for the work they do better than he does.
 </div>
 
 ---
+
+### In development
+
+Private for now. Listed because they are what the studio spends most of its time on.
+
+| | Project | Stack | |
+|---|---|---|---|
+| **Notifyn** | AI-powered multi-channel marketing platform. Email, SMS, WhatsApp, push, and voice behind a single AI decision layer | Next.js, MongoDB, AWS | Private |
+| **Notifyn Cast** | Creator and UGC marketing, built on the Notifyn platform | Next.js, MongoDB | Private |
+| **HMD WA Gateway** | WhatsApp Business messaging gateway | Next.js, Baileys | Private |
 
 ### Products
 
@@ -39,4 +49,6 @@ The remaining repositories are private: internal tooling, infrastructure, and th
 
 ### Core Stack
 
-TypeScript · Node.js · Next.js · React · Swift · MongoDB · Redis · Vercel · AWS
+TypeScript · Node.js · Next.js · React · Astro · Swift · SwiftUI · MongoDB · Redis · Vercel · AWS · Cloudflare Workers
+
+Artificial intelligence · SaaS · Marketing automation · Messaging infrastructure · Cloud infrastructure · iOS and watchOS
