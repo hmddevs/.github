@@ -1,19 +1,52 @@
+<div align="center">
+
 # HMD Developments
 
-HMD Developments is a software studio run by Umut Güden.
+An AI-native software studio in Istanbul.
+B2B SaaS, cloud infrastructure, and open-source tooling.
 
-- Website: [hmddevs.org](https://hmddevs.org)
-- Personal site: [guden.tr](https://guden.tr)
+Led by [Umut Güden](https://guden.tr), working with a few people he has built things with for years,
+brought in for the work they do better than he does.
 
-## Public repositories
+[hmddevs.org](https://hmddevs.org) · [guden.tr](https://guden.tr)
 
-- [license](https://github.com/hmddevs/license) — License · CC BY-NC-ND 4.0 terms for HMD Developments repositories
-- [ip-api](https://github.com/hmddevs/ip-api) — IP API · Privacy-focused IP geolocation service
-- [wa-gateway](https://github.com/hmddevs/wa-gateway) — Self-hostable WhatsApp messaging gateway built on Baileys. Unofficial. Source and documentation only.
-- [hmd-bio](https://github.com/hmddevs/hmd-bio) — HMD Bio · URL shortener & link management platform
-- [bronzla](https://github.com/hmddevs/bronzla) — Free iOS and watchOS app for safe sun exposure. Tells you how long you can stay in the sun from your skin type and the live UV index. Türkiye first.
-- [snooze-if-you-can](https://github.com/hmddevs/snooze-if-you-can) — Snooze If You Can · iOS alarm app that turns snoozing into donations
-- [discord-invite-tracker](https://github.com/hmddevs/discord-invite-tracker) — Invite Tracker · Discord bot for tracking invites, leaderboards & fake-invite detection. Complete, no longer maintained.
-- [chat-guard](https://github.com/hmddevs/chat-guard) — Chat Guard · Open-source Discord moderation & server management bot. Feature-complete; in production since 2021.
-- [discord-music-player](https://github.com/hmddevs/discord-music-player) — Discord Music Player · Modular bot skeleton with queue controls & event embeds. Complete, no longer maintained. (archived)
-- [sormak-icin-sorma](https://github.com/hmddevs/sormak-icin-sorma) — Sormak İçin Sorma · Direkt sor, "sorabilir miyim?" deme (archived)
+</div>
+
+---
+
+### In development
+
+Private for now. Listed because they are what the studio spends most of its time on.
+
+| | Project | Stack | |
+|---|---|---|---|
+| **HMD WA Gateway** | WhatsApp Business messaging gateway | Next.js, Baileys | Private |
+
+### Products
+
+| | Project | Stack | |
+|---|---|---|---|
+| **[Bronzla](https://github.com/hmddevs/bronzla)** | How long you can safely stay in the sun, from your skin type and the live UV index. iOS and watchOS, free | Swift | [Source](https://github.com/hmddevs/bronzla) |
+| **[Snooze If You Can](https://github.com/hmddevs/snooze-if-you-can)** | An alarm app that turns snoozing into donations | Swift | [Source](https://github.com/hmddevs/snooze-if-you-can) |
+| **[HMD Bio](https://hmd.bio)** | URL shortener and link management, with custom domains and click analytics | Next.js, MongoDB, Redis | [Source](https://github.com/hmddevs/hmd-bio) |
+| **[IP API](https://ip.hmddevs.org)** | Privacy-focused IP geolocation. The addresses it resolves are not logged | Node.js | [Source](https://github.com/hmddevs/ip-api) |
+
+### Open source, finished
+
+Complete and archived. The source stays up, and Chat Guard has been running in production since 2021.
+
+| | Project | Stack | |
+|---|---|---|---|
+| **Chat Guard** | Moderation and server management for large Discord communities | JavaScript | [Source](https://github.com/hmddevs/chat-guard) |
+| **Invite Tracker** | Invite tracking, leaderboards, and fake-invite detection for Discord | JavaScript | [Source](https://github.com/hmddevs/discord-invite-tracker) |
+| **Music Player** | A modular Discord bot skeleton with queue controls and event embeds | JavaScript | [Source](https://github.com/hmddevs/discord-music-player) |
+| **Sormak İçin Sorma** | Direkt sor, "sorabilir miyim?" deme | HTML | [Source](https://github.com/hmddevs/sormak-icin-sorma) |
+
+Licences differ per project; each repository carries its own `LICENSE` file, and that file is authoritative.
+The remaining repositories are private: internal tooling, infrastructure, and the studio's own sites.
+
+### Core Stack
+
+TypeScript · Node.js · Next.js · React · Astro · Swift · SwiftUI · MongoDB · Redis · Vercel · AWS · Cloudflare Workers
+
+Artificial intelligence · SaaS · Marketing automation · Messaging infrastructure · Cloud infrastructure · iOS and watchOS
