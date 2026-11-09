@@ -14,14 +14,6 @@ brought in for the work they do better than he does.
 
 ---
 
-### In development
-
-Private for now. Listed because they are what the studio spends most of its time on.
-
-| | Project | Stack | |
-|---|---|---|---|
-| **HMD WA Gateway** | WhatsApp Business messaging gateway | Next.js, Baileys | Private |
-
 ### Products
 
 | | Project | Stack | |
@@ -38,6 +30,7 @@ Complete and archived. The source stays up, and Chat Guard has been running in p
 | | Project | Stack | |
 |---|---|---|---|
 | **Chat Guard** | Moderation and server management for large Discord communities | JavaScript | [Source](https://github.com/hmddevs/chat-guard) |
+| **[HMD WA Gateway](https://github.com/hmddevs/wa-gateway)** | Self-hostable WhatsApp messaging gateway built on Baileys. Unofficial. Source and documentation only | Next.js, Baileys | [Source](https://github.com/hmddevs/wa-gateway) |
 | **Invite Tracker** | Invite tracking, leaderboards, and fake-invite detection for Discord | JavaScript | [Source](https://github.com/hmddevs/discord-invite-tracker) |
 | **Music Player** | A modular Discord bot skeleton with queue controls and event embeds | JavaScript | [Source](https://github.com/hmddevs/discord-music-player) |
 | **Sormak İçin Sorma** | Direkt sor, "sorabilir miyim?" deme | HTML | [Source](https://github.com/hmddevs/sormak-icin-sorma) |
